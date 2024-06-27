@@ -1,0 +1,12 @@
+
+# project dependencies 
+pyodbc  
+sqlalchemy
+python-dotenv 
+pandas
+numpy 
+matplotlib
+seaborn
+scipy
+ipykernel    
+warnings
